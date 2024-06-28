@@ -9,4 +9,4 @@ let secondNumber = (16 - 2) + (78 / 3);
 //the third variable will consists of 3 different arithmetic operators that will generate the number 39
 let thirdNumber = ((90 / 5) * 2) + 3;
 //create a popup dialog box that displays vault codes and text. 
-alert(`${userOpen} ${firstNumber} ${secondNumber} ${thirdNumber}`);
+alert(`${userOpen} ${firstNumber} - ${secondNumber} - ${thirdNumber}.`);
